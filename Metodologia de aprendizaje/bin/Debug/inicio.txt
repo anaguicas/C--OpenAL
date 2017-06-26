@@ -1,0 +1,4 @@
+﻿Esta es una herramienta que servirá de apoyo a los estudiantes para complementar sus conocimientos en física.
+
+En esta herramienta se usan sonidos 3D para explorar el sentido del oido para mostrar que los sonidos físicos también 
+pueden ser descritos por sonidos

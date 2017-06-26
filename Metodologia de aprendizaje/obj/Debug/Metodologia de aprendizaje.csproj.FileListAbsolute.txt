@@ -1,0 +1,21 @@
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\Metodologia de aprendizaje.exe.config
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\Metodologia de aprendizaje.exe
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\Metodologia de aprendizaje.pdb
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia de aprendizaje.csprojResolveAssemblyReference.cache
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.Properties.Resources.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia de aprendizaje.csproj.GenerateResource.Cache
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia de aprendizaje.exe
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia de aprendizaje.pdb
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.Inicio.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.dll
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.GLControl.dll
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.pdb
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.xml
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\OpenTK.GLControl.xml
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.BuscarEvaluaciones.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.Lista_subtemas.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\bin\Debug\MySql.Data.dll
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.ListadoTemas.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.subtemas.resources
+C:\Users\angelica\OneDrive\Trabajo de grado\software\Metodologia de aprendizaje\Metodologia de aprendizaje\obj\Debug\Metodologia_de_aprendizaje.ContenidoSubtema.resources
